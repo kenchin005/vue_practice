@@ -1,0 +1,24 @@
+
+
+.product_image {
+    width: 370px;
+}
+
+.product_image img{
+    width: 100%;
+}
+
+.product {
+    display: flex;
+}
+
+button {
+    background: aqua;
+    width: 130px;
+    font-weight: bold;
+    height: 40px;
+    color: white;
+    font-size: 16px;
+    /* border: none; */
+    /* box-shadow: none; */
+}
